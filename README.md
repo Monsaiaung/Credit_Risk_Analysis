@@ -45,3 +45,5 @@ The balanced accuracy score for this model is around 93%. With the high number o
 The balanced accuracy score for this model is around 78%. With the high number of the low_risk population, its precision is almost 100% while the sensitivity of 91%.
 
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+
+Out of the 6 models, Easy Ensemble AdaBoost Classifier model would be the best model to use for predicting credit risk since it has the highest balanced accuracy score at 93% and a highest sensitivity percent of 94%.
